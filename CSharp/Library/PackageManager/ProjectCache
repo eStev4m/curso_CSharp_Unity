@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: D:/Trabalhos/Cursos/CursoCSharpUnity/curso_CSharp_Unity/CSharp/Packages
-m_EditorVersion: 2021.2.16f1 (559fc0ec6670)
+m_EditorVersion: 2021.2.18f1 (0c6e675195cf)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.15.13
   testable: 0
