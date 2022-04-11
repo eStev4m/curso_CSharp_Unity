@@ -354,6 +354,8 @@
 "Assets/Variaveis/variaveis.cs"
 "Assets/Variaveis/video12.cs"
 "Assets/Variaveis/video13.cs"
+"Assets/Variaveis/video14.cs"
+"Assets/Variaveis/video15.cs"
 -langversion:9.0
 
 /deterministic
